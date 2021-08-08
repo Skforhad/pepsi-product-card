@@ -1,0 +1,288 @@
+@media (max-width: 906px) {
+    .pepsi {
+        font-size: 140px;
+    }
+}
+
+@media (max-width: 873px) {
+    .pepsi {
+        font-size: 137px;
+    }
+
+    .canName div {
+        display: grid;
+        justify-items: flex-start;
+    }
+
+    .canName div .big {
+        padding-bottom: 15px;
+    }
+}
+
+@media (max-width: 830px) {
+    .buy-price {
+        display: grid;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+
+    .Background {
+        height: 500px;
+    }
+
+    .pepsi {
+        top: 37%;
+        left: 0;
+    }
+
+    .price {
+        padding-top: 10px;
+    }
+
+    .can {
+        bottom: 10%;
+    }
+
+
+    .canName div .big {
+        font-size: 28px;
+    }
+
+    .canName div .latest {
+        padding: 3px 6px;
+    }
+
+    .canName .small {
+        font-size: 18px;
+    }
+
+    .title {
+        font-size: 18px;
+    }
+
+    .text {
+        font-size: 15px;
+    }
+
+    .color {
+        width: 20px;
+        height: 20px;
+    }
+
+    .size {
+        width: 30px;
+        height: 30px;
+        margin: 0 5px;
+        line-height: 30px;
+        font-size: 16px;
+    }
+
+    .price h1 {
+        font-size: 25px;
+    }
+
+    .buy-price {
+        padding-top: 8px;
+    }
+
+    .buy {
+        padding: 10px 10px;
+        font-size: 16px;
+    }
+
+    .information {
+        padding: 25px 16px;
+    }
+
+    .price i {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .pepsi {
+        font-size: 122px;
+    }
+
+    .logo {
+        width: 14%;
+        top: 13px;
+    }
+
+    .share {
+        top: 13px;
+    }
+
+    .color.active {
+        -webkit-transform: scale(1.1);
+        transform: scale(1.2);
+    }
+}
+
+@media(max-width:700px) {
+    .pepsi {
+        font-size: 116px;
+    }
+
+    .can {
+        bottom: 12%;
+        width: 52%;
+        right: 24%;
+    }
+}
+
+
+@media (max-width: 670px) {
+    .pepsi {
+        font-size: 100px;
+        left: 2%;
+    }
+}
+
+@media(max-width: 576px) {
+    .Background {
+        height: 450px;
+    }
+
+    .can {
+        bottom: 13%;
+        width: 60%;
+        right: 19%;
+    }
+
+    .canName div .big {
+        font-size: 22px;
+    }
+
+    .canName div .latest {
+        padding: 1px 5px;
+        font-size: 14px;
+        letter-spacing: 2px;
+    }
+
+    .canName .small {
+        font-size: 16px;
+    }
+
+    .pepsi {
+        font-size: 80px;
+        left: 5%;
+    }
+
+    .title {
+        font-size: 14px;
+    }
+
+    .text {
+        font-size: 13px;
+    }
+
+    .color {
+        width: 17px;
+        height: 17px;
+    }
+
+    .size {
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+    }
+
+    .buy-price {
+        padding-top: 2px;
+    }
+
+    .buy-price {
+        -webkit-box-pack: left;
+        -ms-flex-pack: left;
+        justify-content: left;
+    }
+
+    .buy {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+
+    .price i {
+        font-size: 18px;
+    }
+
+    .price h1 {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 515px) {
+    .Background {
+        height: 270px;
+    }
+
+    .pepsi {
+        font-size: 112px;
+        left: 12%;
+    }
+
+    .card {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .card > div {
+        width: 100%;
+    }
+
+.can {
+	bottom: 10%;
+	width: 43%;
+	right: 27%;
+}
+
+    .logo {
+        width: 8%;
+    }
+
+    .share {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+    }
+
+    .share i {
+        line-height: 30px;
+    }
+
+    .canName div {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+
+    .canName div .big {
+        padding-bottom: 0px;
+    }
+}
+
+@media (max-width:420px) {
+    .pepsi {
+       font-size: 90px;
+    }
+
+    .Background {
+        height: 220px;
+    }
+
+    .can {
+        bottom: 6%;
+        width: 27%;
+        right: 36%;
+    }
+}
+
+@media (max-width:350px) {
+    .pepsi{
+        left: 2%;
+    }
+}
